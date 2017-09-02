@@ -3,17 +3,13 @@ package tutorial02;
 public class App {
 
 	public static void main(String[] args) {
-		int myNumber = 88;
-		
+		int myNumber = 88;	
 		short myShort = 847;
 		long myLong = 1847;
-		
 		double myDouble = 3.14159;
 		float myFloat = 3.14159f;
-		
 		char myChar = 'b';
 		boolean myBoolean = true;
-		
 		byte myByte = 127;
 		
 		System.out.println(myNumber);
@@ -24,7 +20,6 @@ public class App {
 		System.out.println(myChar);
 		System.out.println(myBoolean);
 		System.out.println(myByte);
-
 	}
 
 }
